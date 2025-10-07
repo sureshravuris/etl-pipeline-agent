@@ -2,7 +2,7 @@
 
 A modern, full-stack web application for monitoring and managing ETL (Extract, Transform, Load) data pipelines. Built with React, Flask, Apache Airflow, and Docker.
 
-![Main Dashboard](screenshots/dashboard-main.png)
+![Main Dashboard](screenshots/Main-Dashboard.png)
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@ A modern, full-stack web application for monitoring and managing ETL (Extract, T
 - Performance metrics (duration, success rate)
 - Visual status indicators
 
-![History Modal](screenshots/history-modal.png)
+![History Modal](screenshots/History-Modal.png)
 
 ### 📝 Advanced Logs Viewer
 - Task-by-task execution logs
@@ -26,7 +26,7 @@ A modern, full-stack web application for monitoring and managing ETL (Extract, T
 - Color-coded status indicators
 - Real-time log streaming
 
-![Logs Viewer](screenshots/logs-viewer.png)
+![Logs Viewer](screenshots/Logs-Viewer.png)
 
 ### 📉 Metrics Dashboard
 - Overall performance across all pipelines
@@ -34,7 +34,7 @@ A modern, full-stack web application for monitoring and managing ETL (Extract, T
 - Success rate visualizations
 - Performance insights and recommendations
 
-![Metrics Dashboard](screenshots/metrics-dashboard.png)
+![Metrics Dashboard](screenshots/Metrics-Dashboard.png)
 
 ---
 
