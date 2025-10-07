@@ -1,6 +1,3 @@
-Here's the complete README.md content. Just copy and paste this entire thing:
-
-```markdown
 # 🚀 ETL Pipeline Management Dashboard
 
 A modern, full-stack web application for monitoring and managing ETL (Extract, Transform, Load) data pipelines. Built with React, Flask, Apache Airflow, and Docker.
@@ -72,7 +69,7 @@ A modern, full-stack web application for monitoring and managing ETL (Extract, T
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/etl-pipeline-agent.git
+git clone https://github.com/sureshravuris/etl-pipeline-agent.git
 cd etl-pipeline-agent
 ```
 
@@ -247,40 +244,7 @@ The application runs 4 Docker containers:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Apache Airflow for workflow orchestration
-- React community for excellent documentation
-- Flask for simple and powerful backend framework
-- Docker for containerization
-
----
-
-## 📧 Contact
-
-**Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/etl-pipeline-agent](https://github.com/YOUR_USERNAME/etl-pipeline-agent)
-
----
 
 ## 🚀 Future Enhancements
 
